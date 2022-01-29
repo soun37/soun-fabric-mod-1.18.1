@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "soun:wheelfrag"
+    },
+    {
+      "item": "soun:sadfrag"
+    },
+    {
+      "item": "soun:pussio"
+    },
+    {
+      "item": "soun:omigaa"
+    },
+    {
+      "item": "soun:nulledfrag"
+    },
+    {
+      "item": "soun:happyfrag"
+    },
+    {
+      "item": "soun:ewfrag"
+    },
+    {
+      "item": "soun:angyfrag"
+    },
+    {
+      "item": "soun:token"
+    }
+  ],
+  "result": {
+    "item": "soun:heart"
+  }
+}

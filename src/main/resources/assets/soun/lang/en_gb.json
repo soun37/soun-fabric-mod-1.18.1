@@ -1,3 +1,14 @@
 {
-  "item.soun.token": "nob"
+  "item.soun.token": "nob",
+
+  "item.soun.sadfrag": "sad heart fragment",
+  "item.soun.happyfrag": "happy heart fragment",
+  "item.soun.nulledfrag": "smol void",
+  "item.soun.angyfrag": "angry heart fragment",
+  "item.soun.ewfrag": "disgusting heart fragment",
+  "item.soun.pussio": "fearful heart fragment",
+  "item.soun.wheelfrag": "enlightened heart fragment",
+  "item.soun.omigaa": "surprised heart fragment",
+  "item.soun.heart": "heart"
+
 }

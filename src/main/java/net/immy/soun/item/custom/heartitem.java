@@ -5,9 +5,7 @@ import net.minecraft.entity.attribute.EntityAttributes;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraft.sound.SoundEvents;
-
 import net.minecraft.world.World;
-
 
 public class heartitem extends Item {
     public heartitem(Settings settings) {
@@ -23,4 +21,5 @@ public class heartitem extends Item {
         }
         return stack;
     }
+
 }
